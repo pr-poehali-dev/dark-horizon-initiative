@@ -72,7 +72,7 @@ export default function HeroSection() {
             >
               <div className="space-y-5">
                 <p className="text-3xl font-light leading-tight text-white md:text-4xl lg:text-5xl">
-                  Психологическая поддержка
+                  Ирина — психологическая поддержка
                 </p>
                 <p className="text-xl font-light text-white/80 md:text-2xl">
                   Быть открытой. Говорить по делу. Помогать там, где это нужно.
