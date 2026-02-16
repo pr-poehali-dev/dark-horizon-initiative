@@ -52,6 +52,13 @@ export default function HeroSection() {
                 isLoaded ? 'translate-x-0 opacity-100' : '-translate-x-8 opacity-0'
               )}
             >
+              <div className="relative mb-2 h-28 w-28 overflow-hidden rounded-full border-2 border-white/40 shadow-2xl md:h-36 md:w-36">
+                <img
+                  src="https://cdn.poehali.dev/projects/c11f7b55-2fd1-49fd-a230-1155555e6873/bucket/b7170ebc-b49d-470b-b78d-3bbf64c9de56.jpg"
+                  alt="Психолог"
+                  className="h-full w-full object-cover"
+                />
+              </div>
               <p className="text-lg font-light tracking-widest uppercase text-white/60">
                 Безопасность · Доверие · Развитие
               </p>
