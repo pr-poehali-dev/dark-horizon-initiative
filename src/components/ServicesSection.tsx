@@ -51,6 +51,10 @@ export default function ServicesSection() {
           <p className="mx-auto max-w-2xl text-xl font-light leading-relaxed text-white/70">
             Вы распуститесь, как цветок под ласковым солнцем — ярко, естественно, прекрасно.
           </p>
+          <div className="mt-8 inline-flex flex-col items-center gap-2 rounded-2xl border border-white/10 bg-white/5 px-8 py-5">
+            <p className="text-lg font-light text-white/90">Первая консультация — <span className="font-medium text-white">бесплатно</span></p>
+            <p className="text-sm font-light text-white/50">Далее — 500 ₽ за сессию</p>
+          </div>
         </div>
 
         <div className="grid gap-8 md:grid-cols-3">
